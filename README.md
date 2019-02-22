@@ -1,2 +1,1 @@
-Kazerski Aliaksandr 1
-HTML CSS Basics: https://www.codecademy.com/users/AliaksandrKazerski/achievements
+# rsschool-2019Q1-codeacademy
